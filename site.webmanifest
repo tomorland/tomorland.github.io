@@ -1,0 +1,14 @@
+{
+    "name": "Maturitní ples 2026 (G4A a O8)",
+    "short_name": "Maturitní ples",
+    "icons": [
+        {
+            "src": "/icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1F49B1",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
